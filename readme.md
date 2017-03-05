@@ -22,7 +22,7 @@ For general Java libraries have a look at [awesome-java](https://github.com/akul
 | [telegram](https://github.com/DrKLO/Telegram) | google play services, android support library, HockeySDK, isoparser |Cloud-based mobile and desktop messaging app with a focus on security and speed.
 | [muzei](https://github.com/romannurik/muzei) | okhttp, picasso, google play services, firebase, eventbus  | Live Wallpaper for Android 
 | [bitbeaker](https://bitbucket.org/bitbeaker-dev-team/bitbeaker) | dagger, robospice, okhttp, retrofit, gson, eventbus, PhotoView, snackbar, butterknife  | A Bitbucket client for Android
-| [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) | kotlin, eventbus, picasso, okhttp, retrofit, anko, dagger  | A showcase music app for Android entirely written using Kotlin language
+| [bandhook-kotlin](https://github.com/antoniolg/Bandhook-Kotlin) | kotlin, eventbus, picasso, okhttp, retrofit, anko, dagger  | A showcase music app for Android entirely written using Kotlin language
 
 
 ## Games
