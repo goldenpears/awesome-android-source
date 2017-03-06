@@ -54,6 +54,7 @@ For general Java libraries have a look at [awesome-java](https://github.com/akul
 | [pets](https://github.com/udacity/ud845-Pets) | android support library, design support library | SQlite for beginners. Used in a Udacity course in the Android Basics Nanodegree by Google.
 | [sunshine](https://github.com/udacity/Sunshine-Version-2) | android support library, openweathermap API  | Weather app. Used in a Udacity course in the Developing Android Apps by Google.
 | [quake report](https://github.com/udacity/ud843-QuakeReport) | android support library, USGS API  | Networking for beginners. Used in a Udacity course in the Beginning Android Nanodegree.
+| [multi-selection](https://github.com/Yalantis/Multi-Selection) | support libraries  | Multiselection Solution for Android in Kotlin by Yalantis
 
 
 # Other Awesome Lists
