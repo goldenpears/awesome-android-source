@@ -14,15 +14,17 @@ For general Java libraries have a look at [awesome-java](https://github.com/akul
 - [Boilerplates](#boilerplates)
 - [Samples for study](#app-samples-for-studies)
 
+💛 -- is for love.
+
 
 ## Apps
 | App  | Libraries | Description |
 | ---- | --------- | ----------- | 
-| [plaid](https://github.com/nickbutcher/plaid) | okhttp, gson, butterknife, retrofit, jsoup |Provides design news, example of implementing material design
+| [💛 plaid](https://github.com/nickbutcher/plaid) | okhttp, gson, butterknife, retrofit, jsoup |Provides design news, example of implementing material design
 | [telegram](https://github.com/DrKLO/Telegram) | google play services, android support library, HockeySDK, isoparser |Cloud-based mobile and desktop messaging app with a focus on security and speed.
-| [muzei](https://github.com/romannurik/muzei) | okhttp, picasso, google play services, firebase, eventbus  | Live Wallpaper for Android 
+| [💛 muzei](https://github.com/romannurik/muzei) | okhttp, picasso, google play services, firebase, eventbus  | Live Wallpaper for Android 
 | [bitbeaker](https://bitbucket.org/bitbeaker-dev-team/bitbeaker) | dagger, robospice, okhttp, retrofit, gson, eventbus, PhotoView, snackbar, butterknife  | A Bitbucket client for Android
-| [bandhook-kotlin](https://github.com/antoniolg/Bandhook-Kotlin) | kotlin, eventbus, picasso, okhttp, retrofit, anko, dagger  | A showcase music app for Android entirely written using Kotlin language
+| [💛 bandhook-kotlin](https://github.com/antoniolg/Bandhook-Kotlin) | kotlin, eventbus, picasso, okhttp, retrofit, anko, dagger  | A showcase music app for Android entirely written using Kotlin language
 
 
 ## Games
@@ -54,7 +56,8 @@ For general Java libraries have a look at [awesome-java](https://github.com/akul
 | [pets](https://github.com/udacity/ud845-Pets) | android support library, design support library | SQlite for beginners. Used in a Udacity course in the Android Basics Nanodegree by Google.
 | [sunshine](https://github.com/udacity/Sunshine-Version-2) | android support library, openweathermap API  | Weather app. Used in a Udacity course in the Developing Android Apps by Google.
 | [quake report](https://github.com/udacity/ud843-QuakeReport) | android support library, USGS API  | Networking for beginners. Used in a Udacity course in the Beginning Android Nanodegree.
-| [multi-selection](https://github.com/Yalantis/Multi-Selection) | support libraries  | Multiselection Solution for Android in Kotlin by Yalantis
+| [💛 multi-selection](https://github.com/Yalantis/Multi-Selection) | support libraries  | Multiselection Solution for Android in Kotlin by Yalantis
+| [stackoverflow-client](https://github.com/dbacinski/stackoverflow-client) | RxJava, Retrofit, Picasso, Android Design Support Library, Android Data Binding, Lombok, MaterialSpinner, Spock, RoboSock, Espresso  | Android demo project with MVVM architecture
 
 
 # Other Awesome Lists
