@@ -48,7 +48,7 @@ For general Java libraries have a look at [awesome-java](https://github.com/akul
 | [💛 multi-selection](https://github.com/Yalantis/Multi-Selection) | support libraries  | Multiselection Solution for Android in Kotlin by Yalantis
 | [stackoverflow-client](https://github.com/dbacinski/stackoverflow-client) | RxJava, Retrofit, Picasso, Android Design Support Library, Android Data Binding, Lombok, MaterialSpinner, Spock, RoboSock, Espresso  | Android demo project with MVVM architecture
 | [materialChipView](https://github.com/robertlevonyan/materialChipView) | support libraries  | Material Chip view. Can be used as tags for categories, contacts or creating text clouds (with examples)
-| [pinview](https://github.com/GoodieBag/Pinview) | some  | a pinview library (with examples)
+| [pinview](https://github.com/GoodieBag/Pinview) | support libraries  | a pinview library (with examples)
 | [horizontalPicker](https://github.com/GoodieBag/HorizontalPicker) | support libraries  | A HorizontalPicker view, which supports both text and icon
 | [protractorView](https://github.com/GoodieBag/ProtractorView) | support libraries  | A semicircular seekbar view for selecting angle from 0° to 180° (with example)
 
