@@ -10,9 +10,8 @@ For general Java libraries have a look at [awesome-java](https://github.com/akul
 
 - [Apps](#apps)
 - [Games](#games)
-- [Libraries](#libraries)
 - [Boilerplates](#boilerplates)
-- [Samples for study](#app-samples-for-studies)
+- [Samples](#app-samples)
 
 💛 -- is for love.
 
@@ -33,14 +32,6 @@ For general Java libraries have a look at [awesome-java](https://github.com/akul
 | [2048](https://github.com/uberspot/2048-android) | android support library  | An implementation of the 2048 puzzle game
 
 
-
-## Libraries
-| App  | Libraries | Description |
-| ---- | --------- | ----------- | 
-| [realm](https://github.com/realm/realm-java) | realm, okhttp, javarx  | Mobile database that runs directly inside phones, tablets or wearables.
-
-
-
 ## Boilerplates
 | App  | Libraries | Description |
 | ---- | --------- | ----------- | 
@@ -48,9 +39,7 @@ For general Java libraries have a look at [awesome-java](https://github.com/akul
 | [abitofjson](https://github.com/locovna/i-just-wanna-try-to-parse-f-JSON-in-android) | android support library  | android app that already setup to play with elementary parsing JSON 
 
 
-
-
-## App samples for studies
+## App samples
 | App  | Libraries | Description |
 | ---- | --------- | ----------- | 
 | [pets](https://github.com/udacity/ud845-Pets) | android support library, design support library | SQlite for beginners. Used in a Udacity course in the Android Basics Nanodegree by Google.
@@ -58,6 +47,10 @@ For general Java libraries have a look at [awesome-java](https://github.com/akul
 | [quake report](https://github.com/udacity/ud843-QuakeReport) | android support library, USGS API  | Networking for beginners. Used in a Udacity course in the Beginning Android Nanodegree.
 | [💛 multi-selection](https://github.com/Yalantis/Multi-Selection) | support libraries  | Multiselection Solution for Android in Kotlin by Yalantis
 | [stackoverflow-client](https://github.com/dbacinski/stackoverflow-client) | RxJava, Retrofit, Picasso, Android Design Support Library, Android Data Binding, Lombok, MaterialSpinner, Spock, RoboSock, Espresso  | Android demo project with MVVM architecture
+| [materialChipView](https://github.com/robertlevonyan/materialChipView) | support libraries  | Material Chip view. Can be used as tags for categories, contacts or creating text clouds (with examples)
+| [pinview](https://github.com/GoodieBag/Pinview) | some  | a pinview library (with examples)
+| [horizontalPicker](https://github.com/GoodieBag/HorizontalPicker) | support libraries  | A HorizontalPicker view, which supports both text and icon
+| [protractorView](https://github.com/GoodieBag/ProtractorView) | support libraries  | A semicircular seekbar view for selecting angle from 0° to 180° (with example)
 
 
 # Other Awesome Lists
