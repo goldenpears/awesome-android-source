@@ -24,6 +24,7 @@ For general Java libraries have a look at [awesome-java](https://github.com/akul
 | [💛 muzei](https://github.com/romannurik/muzei) | okhttp, picasso, google play services, firebase, eventbus  | Live Wallpaper for Android 
 | [bitbeaker](https://bitbucket.org/bitbeaker-dev-team/bitbeaker) | dagger, robospice, okhttp, retrofit, gson, eventbus, PhotoView, snackbar, butterknife  | A Bitbucket client for Android
 | [💛 bandhook-kotlin](https://github.com/antoniolg/Bandhook-Kotlin) | kotlin, eventbus, picasso, okhttp, retrofit, anko, dagger  | A showcase music app for Android entirely written using Kotlin language
+| [simple-calendar](https://github.com/SimpleMobileTools/Simple-Calendar) | kotlin, joda-time, stetho, recyclerview-multiselect  | A simple calendar with events, customizable widget and no ads.
 
 
 ## Games
